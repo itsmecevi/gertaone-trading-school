@@ -3,7 +3,7 @@
 ## Preschool
 
 * Apa itu Pasar Keuangan dan Pasar Modal
-    * Pasar Keuangan (Valas)
+    * Pasar Keuangan (Valas / Forex)
     * Pasar Modal
 * Bagaimana kita bisa Trading 
 * Kapan bisa Trading
