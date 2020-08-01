@@ -2,6 +2,13 @@
 
 ## Preschool
 
+* Apa itu Pasar Keuangan dan Pasar Modal
+* Bagaimana kita bisa Trading 
+* Kapan bisa Trading
+* Siapa yang bisa Trading
+* Kenapa harus Trading
+* Margin Trading 101
+
 ## Kindergarten
 
 ## Elementary
