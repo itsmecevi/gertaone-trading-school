@@ -1,4 +1,4 @@
-# gertaone-trading-school
+# Gertaone Trading School
 
 ## Preschool
 
